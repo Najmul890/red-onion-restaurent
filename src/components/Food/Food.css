@@ -1,0 +1,51 @@
+.food{
+    text-align: center;
+    
+    padding: 40px 100px;
+}
+.item{
+    color: #000;
+}
+    
+.selected-item{
+    color: red;
+    border-bottom: 3px solid red;
+ }   
+
+.food-box{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 30px;
+    
+    margin-top: 40px;
+}
+h2{
+    font-size: 25px;
+}
+.food ul{
+    list-style-type: none;
+    margin-left: 418px;
+    margin-top: 45px;
+    
+}
+.food ul li{
+    float: left;
+    margin-left: 15px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.shipping{
+    padding: 10px;
+}
+.checkout{
+    border: none;
+    background: red;
+    outline: none;
+    color: #fff;
+    padding: 8px 5px;
+    cursor: pointer;
+}
+.nothing{
+    background: rgba(255, 0, 0, 0.294);
+    color: rgba(255, 255, 255, 0.692);
+}

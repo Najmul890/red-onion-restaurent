@@ -1,0 +1,8 @@
+.container{
+    padding: 20px 50px;
+    margin-left: 50px;
+}
+.container .checkout{
+    text-decoration: none;
+    margin-top: 10px;
+}

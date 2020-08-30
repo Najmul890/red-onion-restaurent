@@ -1,0 +1,44 @@
+.banner{
+    background-image: url(../../img/bannerbackground.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 75vh;
+    position: relative;
+    
+}
+ .header  {
+    position: absolute;
+    left: 28%;
+    top: 24%;
+    
+}
+.header h2{
+    font-size: 40px;
+}
+.search-box{
+    margin: 0 50px;
+    position: relative;
+}
+.search-box input{
+    width: 450px;
+    border-radius: 20px;
+    height: 40px;
+    outline: none;
+    border: 1px solid lightgray;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.search-box button{
+    position: absolute;
+    right: 40px;
+    height: 100%;
+    border-radius: 30px;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+.search-box input:focus{
+    border: 2px solid lightsteelblue;
+}
+
+

@@ -1,0 +1,75 @@
+.top-header{
+    padding: 15px 20px;
+    border-bottom: 1px solid lightgray;
+    
+    
+}
+.top-header img{
+    width: 200px;
+    margin-left: 120px;
+}
+
+.header-icon{
+    float: right;
+}
+.top-header ul{
+    list-style-type: none;
+    float: right;
+    margin-right: 100px;
+    
+}
+.top-header ul li{
+    float: left;
+    margin-right:30px ;
+    
+}
+.log-in{
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 6px 10px;
+    color: lightgray;
+    background: none;
+    cursor: pointer;
+    transition: .7s;
+    float: right;
+    text-decoration: none;
+}
+.log-in:hover{
+    background: lightgray;
+    color: #ff0040;
+}
+.sign-up{
+    
+    float: right;
+}
+
+.main-btn{
+    border: 2px solid #ff0040;
+    background: #ff0040;
+    color: seashell;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition: .5s;
+    cursor: pointer;
+    outline: none;
+}
+.main-btn:hover{
+    background: transparent;
+    color: #ff0040;
+}
+.cart-icon{
+    font-size: 20px;
+    padding: 2px;
+    margin-right:20px ;
+    color: sienna;
+}
+.cart-link{
+    color: sienna;
+}
+.user{
+    font-size: 20px;
+    display: inline;
+    bottom: 10px;
+}

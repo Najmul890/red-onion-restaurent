@@ -1,0 +1,22 @@
+.foodItem-box{
+    margin-top: 5px;
+    border: 1px solid lightgray;
+    padding: 40px 5px 20px 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.foodItem-box img{
+    width: 80%;
+    margin-bottom: 00px;
+}
+.linked-item{
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+ }
+ .linked-item:hover{
+     color: #000;
+     text-decoration: none;
+ }
+ 

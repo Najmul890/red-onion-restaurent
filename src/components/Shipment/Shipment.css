@@ -1,0 +1,32 @@
+.shipment{
+    padding: 50px 100px;
+}
+.shipment .cart{
+    font-size: 20px;
+    color: sienna;
+}
+.shipment .form-box{
+    width: 60%;
+    padding: 3px;
+    float: left;
+    
+}
+.form-group{
+    margin-top: 10px;
+    padding: 5px;
+}
+.count-box{
+    float: left;
+    padding: 0 50px;
+}
+.single-item{
+    margin-top: 20px;
+}
+.form-group span{
+    margin-left: 5px;
+    color: red;
+    display: block;
+}
+.full-width{
+    width: 100%;
+}

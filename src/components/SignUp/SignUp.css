@@ -1,0 +1,11 @@
+.signUp{
+    margin:100px 300px;
+}
+.signUp input{
+    width: 50%;
+    height: 25px;
+}
+.text-link{
+    color: teal;
+    cursor: pointer;
+}
